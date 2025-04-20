@@ -13,7 +13,7 @@ Declan Javers
 - **State of the Game:** The development update on the game and suggestions for improvement 
 - **FAQ:** Get help in the frequently asked questions section 
 
-![image](https://github.com/user-attachments/assets/070581c2-68e4-419e-a573-d6fc994a5451)
+![Screen Recording 2025-04-20 at 6 50 50 PM](https://github.com/user-attachments/assets/5376dad7-f42b-498a-a3ed-5f2200ca2bfd)
 
 ## Overview 
 
