@@ -12,8 +12,8 @@ Declan Javers
 - **Set up:** How to run this project
 - **State of the Game:** The development update on the game and suggestions for improvement 
 - **FAQ:** Get help in the frequently asked questions section 
- 
 
+![image](https://github.com/user-attachments/assets/070581c2-68e4-419e-a573-d6fc994a5451)
 
 ## Overview 
 
