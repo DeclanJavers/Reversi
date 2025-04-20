@@ -24,7 +24,9 @@ Reversi is a two player board game where players take turns placing pieces on th
 - This implementation utilizes Model-View-Controller Architecture to manage the game rules and visualization, while letting each player control their board. 
 - The design has unique models for each board type, allowing for flexibility in the design. 
 Java Swing is used to visualize the game in order to create an accurate, efficient GUI.
-- The game object keeps track of coordinates in three dimensions for the hexagonal implementation, represented as (q, r, s) as opposed to the (x, y) systems of the square design. 
+- The game object keeps track of coordinates in three dimensions for the hexagonal implementation, represented as (q, r, s) as opposed to the (x, y) systems of the square design.
+
+<img width="603" alt="image" src="https://github.com/user-attachments/assets/e8029209-4d97-4fc1-bd25-3fc82622d591" />
 
 ## How to Play
 
@@ -33,7 +35,7 @@ Java Swing is used to visualize the game in order to create an accurate, efficie
 - **Game Play:** Players take turns placing a piece on the board adjacent to an existing piece. 
 - **Capturing** If a newly placed piece creates a row or column such that there are opponent pieces sandwiched between two of the moving player's pieces, the opponent pieces in the middle are captured and replaced with pieces of the moving player's color.
 
-
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/41570da7-0791-45dc-93bc-1b2fb7bced26" />
 
 ## Features 
 
@@ -50,8 +52,7 @@ This implementation of Reversi allows for several configurations:
 - **Hints** 
     - When enabled, users may click cells without placing pieces. Instead of placing a piece on that cell, a number will appear representing how many pieces the user would capture if moving to that place. 
 
-
-
+<img width="624" alt="image" src="https://github.com/user-attachments/assets/f88f7030-dcaa-4af2-a642-74850d8dcfe1" />
 
 ## Command Line Arguments
 
