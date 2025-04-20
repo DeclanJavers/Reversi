@@ -52,8 +52,6 @@ This implementation of Reversi allows for several configurations:
 - **Hints** 
     - When enabled, users may click cells without placing pieces. Instead of placing a piece on that cell, a number will appear representing how many pieces the user would capture if moving to that place. 
 
-<img width="624" alt="image" src="https://github.com/user-attachments/assets/f88f7030-dcaa-4af2-a642-74850d8dcfe1" />
-
 ## Command Line Arguments
 
 The command to run the game follows this structure:
@@ -108,6 +106,7 @@ This project is finished and no further updates are planned to be released. Howe
 - **Upgraded UI:** The current UI is simplistic and built entirely in Java Swing, which leads the game to look a bit rudimentary. A better UI system would provide a nice visual upgrade. 
 - **Different Rules:** Adding unique rules would increase the game's replayability and could provide interesting challenges for players.
 
+<img width="624" alt="image" src="https://github.com/user-attachments/assets/f88f7030-dcaa-4af2-a642-74850d8dcfe1" />
 
 ## FAQ 
 
