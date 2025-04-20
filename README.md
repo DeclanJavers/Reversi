@@ -97,10 +97,7 @@ By following these instructions, you can download and run this project on your c
    Set up the game using command line arguments and run the executable using this command. 
 
     ```sh 
-    java -cp bin cs3500.reversi.Reversi hexagon human true ai false 
- 
-
-
+    java -cp bin cs3500.reversi.Reversi hexagon human true ai false
 
 ## State of the game 
 
